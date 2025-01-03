@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinculoDeConta", "VinculoDeConta\VinculoDeConta.csproj", "{6A5B31E5-DC2A-402B-A5B8-13CB1245453E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5B31E5-DC2A-402B-A5B8-13CB1245453E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5B31E5-DC2A-402B-A5B8-13CB1245453E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5B31E5-DC2A-402B-A5B8-13CB1245453E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5B31E5-DC2A-402B-A5B8-13CB1245453E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE570467-0F30-4930-9E1B-E860CEA06F3A}
+	EndGlobalSection
+EndGlobal

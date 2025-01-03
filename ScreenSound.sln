@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSound", "ScreenSound\ScreenSound.csproj", "{307A83F8-7783-47DB-A469-F2313CE51C26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VinculoDeConta", "VinculoDeConta\VinculoDeConta\VinculoDeConta.csproj", "{637269DC-4C93-4757-95B9-8ADE07FD77EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{307A83F8-7783-47DB-A469-F2313CE51C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307A83F8-7783-47DB-A469-F2313CE51C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307A83F8-7783-47DB-A469-F2313CE51C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307A83F8-7783-47DB-A469-F2313CE51C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637269DC-4C93-4757-95B9-8ADE07FD77EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637269DC-4C93-4757-95B9-8ADE07FD77EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637269DC-4C93-4757-95B9-8ADE07FD77EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637269DC-4C93-4757-95B9-8ADE07FD77EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625CA640-338C-49ED-8113-0E7E85D6F166}
+	EndGlobalSection
+EndGlobal
