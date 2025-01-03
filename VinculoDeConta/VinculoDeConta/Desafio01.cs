@@ -1,6 +1,6 @@
 ﻿using System;
 
-// ex.01
+//////
 public class ContaBancaria
 {
     public int numeroIndicador;
@@ -9,13 +9,13 @@ public class ContaBancaria
     public string senha;
 }
 
-// ex.02
+//////
 public class Conta
 {
     public string Titular { get; set; }
     public double Saldo { get; set; }
 
-// ex.03
+//////
     public void ExibirDadosConta()
     {
         Console.WriteLine($"Titular: {Titular}");
@@ -23,7 +23,7 @@ public class Conta
     }
 }
 
-// ex.04 
+//////
 public class Carro
 {
     public string Fabricante { get; set; }
@@ -58,8 +58,7 @@ public class Carro
     }
 }
 
-////////////////////////////
-
+//////
 public class Produto
 {
     public string Nome { get; set; }
@@ -116,4 +115,14 @@ public class Produto
 
     public string InformacoesProduto => VerificaValido();
     public Produto() { ProdutoValido = true; }
+
+}
+
+//////
+public class Soma
+{
+    public int A { get; set; }
+    public int B { get; set; }
+    public string Resultado =>
+        $"Soma dos números {A} + {B} = {A + B}";
 }
